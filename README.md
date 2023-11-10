@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Makwelantle
 - 👀 I’m interested in Statistical modelling,data science and machine learning
-- 🌱 I’m currently learning bayesian models to exploring the impact of various priors
+- 🌱 I’m currently learning bayesian models to explore the impact of various priors
 - 💞️ I’m looking to collaborate on bayesian modelling
 - 📫 How to reach me asnath.sehlabana@ul.ac.za
 
